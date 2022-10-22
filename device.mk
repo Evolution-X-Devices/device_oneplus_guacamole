@@ -29,6 +29,7 @@ PRODUCT_PACKAGES += \
     EvolutionFrameworksResTarget \
     EvolutionSettingsResTarget \
     EvolutionSystemUIResTarget \
+    OPlusExtrasResTarget \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
