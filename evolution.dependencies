@@ -7,6 +7,6 @@
     "repository": "TheMuppets/proprietary_vendor_oneplus_guacamole",
     "target_path": "vendor/oneplus/guacamole",
     "remote": "github-non-los",
-    "branch": "lineage-22.1"
+    "branch": "lineage-23.2"
   }
 ]
